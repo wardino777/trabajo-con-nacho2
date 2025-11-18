@@ -9,6 +9,7 @@ public class ProyectoCOloresMVC_BaseDatos {
     public static void main(String[] args) 
     {
        //papu no se paje
+        //se 
        VentanaPrincipal ventPrin=new VentanaPrincipal();
        ventPrin.setLocationRelativeTo(null);
        ventPrin.setTitle("MENU PRINCIPAL");
